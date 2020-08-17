@@ -1,6 +1,6 @@
 # LiveStream-CodeSpaces-Demo
 
 - [x] Live share
-- Node JS
+- [ ] Node JS
 - [ ] Docker file
 - [ ] Dependencies like Mongo
